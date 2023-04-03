@@ -13,5 +13,5 @@ Notes:
 
 The names of the pins will automatically get "@1, @2, @3" added to them where there are naming collisions, thereby grouping pin names when you map them to pads.  There is a bit more of an "Im Feeling Lucky" mode where if you hold Ctrl / Command when you paste, the SW will try and process the clipboard buffer "as best as possible".  (Only reccomended for those brave souls willing to risk certain-satisfaction for convenience.)
 
-/SymbolTools/blob/master/Pin%20Paste.gif
+!/SymbolTools/blob/master/Pin%20Paste.gif!
 
